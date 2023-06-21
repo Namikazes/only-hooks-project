@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/only-hooks-project/static/css/main.270c6a1d.css",
+    "main.js": "/only-hooks-project/static/js/main.d2c17d6f.js",
+    "static/js/787.508c8895.chunk.js": "/only-hooks-project/static/js/787.508c8895.chunk.js",
+    "index.html": "/only-hooks-project/index.html",
+    "main.270c6a1d.css.map": "/only-hooks-project/static/css/main.270c6a1d.css.map",
+    "main.d2c17d6f.js.map": "/only-hooks-project/static/js/main.d2c17d6f.js.map",
+    "787.508c8895.chunk.js.map": "/only-hooks-project/static/js/787.508c8895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.270c6a1d.css",
+    "static/js/main.d2c17d6f.js"
+  ]
+}
